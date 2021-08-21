@@ -1,4 +1,4 @@
-package AbstractionConcept;
+package com.practice.oops.abstractionConcept;
 
 public class WindowsSystemMachine extends AbstractionExample{
 	
